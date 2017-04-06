@@ -1,2 +1,30 @@
 # arch-wg
 OpenSDS Architecture Working Group
+
+## Mission
+To architect and design Software Defined Storage for cloud native deployments.
+
+## Members
+* Anjaneya Chagam (Intel)
+* Rakesh Jain (IBM)
+* Philip Kufeldt (Huawei)
+* Serge Pashenkov (Independent)
+* Allen Samuels (WD/SanDisk)
+* Steven Tan (Huawei)
+* John Mark Walker (Dell/EMC)
+* Pauline Yeung (Huawei)
+
+## Weekly Meetings
+This meeting is hosted on zoom every Tuesday 10:00 to 11:00am PST
+
+Join from PC, Mac, Linux, iOS or Android: https://huawei.zoom.us/j/885487560
+
+Or iPhone one-tap (US Toll):  +14086380968,885487560# or +16465588656,885487560#
+
+Or Telephone:
+    Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656 (US Toll)
+    Meeting ID: 885 487 560
+    International numbers available: https://huawei.zoom.us/zoomconference?m=pkVC-5XpmUdAxCNXKQqQYo6LoEgVnnjE
+
+## Meeting Minutes
+* [April 4, 2017](https://docs.google.com/document/d/1BDU7LsDrq4NyA2UWMZLcBSNzEbGMzRg6QPJAnPo6Eag/edit?usp=sharing)
