@@ -28,3 +28,9 @@ Or Telephone:
 
 ## Meeting Minutes
 * [April 4, 2017](https://docs.google.com/document/d/1BDU7LsDrq4NyA2UWMZLcBSNzEbGMzRg6QPJAnPo6Eag/edit?usp=sharing)
+
+## Kubernetes Storage SIG Documents
+* [Container Storage Interface](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJmHF-DNY7IYP-Di7iuVhQI)
+* [Meeting Minutes](https://docs.google.com/document/d/1-8KEG8AjAgKznS9NFm3qWqkGyCHmvU6HVl0sk5hwoAE)
+* [Persistent Local Storage](https://docs.google.com/document/d/1so67pZPtBwv3uBg9d3pk4VLzfn9qtuZrbauv1DnNDSk/edit?ts=58dd9c72)
+* [Replication](https://docs.google.com/document/d/1kY6UssEaAZonFEr6bA6i8fsJKHFyubjcrJmiq85VC88)
