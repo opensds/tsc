@@ -31,6 +31,7 @@ Or Telephone:
 
 ## Kubernetes Storage SIG Documents
 * [Container Storage Interface](https://docs.google.com/document/d/1JMNVNP-ZHz8cGlnqckOnpJmHF-DNY7IYP-Di7iuVhQI)
+* [Containerized Mount](https://docs.google.com/document/d/1vLl3ETdd_mV-YbVVMQPIryJR5Y85Kv6ShuW47KDm-Zg/edit#heading=h.9mbi6jf09erm)
 * [Dynamic Changes to PVs](https://docs.google.com/document/d/1EjK6wKuOvPTAF25rzadYVGKLMJm_jFlRXHPOeA3JfUc/edit?ts=58ed6ca0)
 * [Meeting Minutes](https://docs.google.com/document/d/1-8KEG8AjAgKznS9NFm3qWqkGyCHmvU6HVl0sk5hwoAE)
 * [Persistent Local Storage](https://docs.google.com/document/d/1so67pZPtBwv3uBg9d3pk4VLzfn9qtuZrbauv1DnNDSk/e[dit?ts=58dd9c72)
