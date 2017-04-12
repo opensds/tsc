@@ -35,7 +35,7 @@ Q1 2017 Documents
 * [Containerized Mount](https://docs.google.com/document/d/1vLl3ETdd_mV-YbVVMQPIryJR5Y85Kv6ShuW47KDm-Zg/edit#heading=h.9mbi6jf09erm)
 * [Dynamic Changes to PVs](https://docs.google.com/document/d/1EjK6wKuOvPTAF25rzadYVGKLMJm_jFlRXHPOeA3JfUc/edit?ts=58ed6ca0)
 * [Meeting Minutes](https://docs.google.com/document/d/1-8KEG8AjAgKznS9NFm3qWqkGyCHmvU6HVl0sk5hwoAE)
-* [Persistent Local Storage](https://docs.google.com/document/d/1so67pZPtBwv3uBg9d3pk4VLzfn9qtuZrbauv1DnNDSk/e[dit?ts=58dd9c72)
+* [Persistent Local Storage](https://docs.google.com/document/d/1so67pZPtBwv3uBg9d3pk4VLzfn9qtuZrbauv1DnNDSk)
 * [Resource Management](https://docs.google.com/document/d/1-YwLsgZzhzzmclIxTOkfo_yltir8JUp-6UzVsdYNkfY/edit#heading=h.o4y4t91qdxq8)
 * [Snapshot](https://docs.google.com/document/d/17WS4Wk4MXRH24i-BpMpIFo5F-SNoRkm_KtkBMZEEoAo)
 * [Replication](https://docs.google.com/document/d/1kY6UssEaAZonFEr6bA6i8fsJKHFyubjcrJmiq85VC88)
