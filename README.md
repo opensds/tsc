@@ -9,6 +9,7 @@ To architect and design Software Defined Storage for cloud native deployments.
 * Rakesh Jain (IBM)
 * Philip Kufeldt (Huawei)
 * Serge Pashenkov (Independent)
+* Howard Huang (Huawei)
 * Allen Samuels (WD/SanDisk)
 * Steven Tan (Huawei)
 * John Mark Walker (Dell/EMC)
@@ -28,6 +29,7 @@ Or Telephone:
 
 ## Meeting Minutes
 * [April 4, 2017](https://docs.google.com/document/d/1BDU7LsDrq4NyA2UWMZLcBSNzEbGMzRg6QPJAnPo6Eag/edit?usp=sharing)
+* [April 19, 2017] (https://docs.google.com/document/d/1mR0aa3eoU10A8TFTVpKZD6hRSGOfdPafIa7mmGloNeY/edit?usp=sharing)
 
 ## Kubernetes Storage SIG
 Q1 2017 Documents
