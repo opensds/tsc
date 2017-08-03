@@ -9,9 +9,11 @@
 
 
 ## Minutes:
--	Scott opened the meeting
--	Self-introductions 
--	Announcements: 
+-	**Scott opened the meeting
+
+a.	Self-introductions 
+
+-	**Announcements: 
 
 a.  Matsumoto-san, Steven, Rakesh, Reddy, and Allen to form the TSC
 
@@ -25,7 +27,7 @@ e.	Scott advised setting up a formation workgroup for OpenSDS formation based on
 
 f.	Scott set out roadmap for target launch of OpenSDS in September with press release on board, TSC, etc.
 
--	Updates and Activities
+-	**Updates and Activities
 
 a.	Steven invited OpenSDS members to Huawei Connect 2017
 
@@ -33,11 +35,11 @@ b.	Steven extended call-for-speakers for SDC presentation and panel session at O
 
 c.	Reddy indicated Openstack Sydney and CloudNativeCon Austin are important events we should participate in
 
--	EUAC
+-	**EUAC
 
 a.	Scott advised that EUAC can be invited to attend the weekly TSC calls as an on-ramp and have separate EUAC meetings at a later point in time
 
--	Project Proposals
+-	**Project Proposals
 
 a.	Howard proposed The Controller Project with Leon Wang as the PTL 
 
@@ -49,13 +51,13 @@ d.	Steven recommended giving names to these projects
 
 e.	There were no objections to the 2 projects, so they are approved 
 
--	Identify Criteria for Alpha and Beta releases
+-	**Identify Criteria for Alpha and Beta releases
 
 a.	Rakesh and Reddy both commented on the need to have end-to-end orchestration with Kubernetes and one or two other cloud orchestrators
 
 b.	Steven proposed emailing criteria offline to allow time to think
 
--	Wrap-up:
+-	**Wrap-up:
 
 a.	Rakesh brought up IBM Ubiquity project, Steven proposed Rakesh introduce it in next meeting
 
@@ -63,7 +65,7 @@ b.	Reddy commented it is important to define southbound API
 
 c.	Everyone agreed to a weekly technical meeting at the same time from next week
 
--	Action Items:
+-	**Action Items:
 
 a.	Scott to send charter and plans to TSC representatives
 
