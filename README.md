@@ -10,7 +10,7 @@ To provide technical guidance for OpenSDS community development.
 * Allen Samuels (WD/SanDisk)
 * Steven Tan (Huawei)
 * Matsumoto Shuuhei (Hitachi)
-* Howard Huang (Huawei)
+
 
 ## Weekly Meetings
 This meeting is hosted on zoom every Thursday 8:00pm to 9:00pm EDT (Friday 8:00am - 9:00am APAC)
@@ -25,6 +25,8 @@ Meeting ID: 269 355 859
 International numbers available: https://zoom.us/zoomconference?m=deJ85KgsJiMSJ5jdarJ_cpJY84d8IBfK
 
 ## Meeting Minutes
+* [2017-07-29 Minute](tsc-meeting-2017-07-29.md)
+
 
 ## Past Arch WG Meeting Minutes
 * [April 4, 2017](https://docs.google.com/document/d/1BDU7LsDrq4NyA2UWMZLcBSNzEbGMzRg6QPJAnPo6Eag/edit?usp=sharing)
