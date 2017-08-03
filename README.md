@@ -1,33 +1,32 @@
-# arch-wg
-OpenSDS Architecture Working Group
+# TSC
+OpenSDS Technical Steering Commitee
 
 ## Mission
-To architect and design Software Defined Storage for cloud native deployments.
+To provide technical guidance for OpenSDS community development.
 
 ## Members
 * Anjaneya Chagam (Intel)
 * Rakesh Jain (IBM)
-* Philip Kufeldt (Huawei)
-* Serge Pashenkov (Independent)
-* Howard Huang (Huawei)
 * Allen Samuels (WD/SanDisk)
 * Steven Tan (Huawei)
-* John Mark Walker (Dell/EMC)
-* Pauline Yeung (Huawei)
+* Matsumoto Shuuhei (Hitachi)
+* Howard Huang (Huawei)
 
 ## Weekly Meetings
-This meeting is hosted on zoom every Tuesday 10:00 to 11:00am PST
+This meeting is hosted on zoom every Thursday 8:00pm to 9:00pm EDT (Friday 8:00am - 9:00am APAC)
 
-Join from PC, Mac, Linux, iOS or Android: https://huawei.zoom.us/j/885487560
-
-Or iPhone one-tap (US Toll):  +14086380968,885487560# or +16465588656,885487560#
-
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/269355859
+Or iPhone one-tap (US Toll): +16465588656,,269355859# or +14086380968,,269355859#
 Or Telephone:
-    Dial: +1 408 638 0968 (US Toll) or +1 646 558 8656 (US Toll)
-    Meeting ID: 885 487 560
-    International numbers available: https://huawei.zoom.us/zoomconference?m=pkVC-5XpmUdAxCNXKQqQYo6LoEgVnnjE
+Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
++1 855 880 1246 (US Toll Free)
++1 877 369 0926 (US Toll Free)
+Meeting ID: 269 355 859
+International numbers available: https://zoom.us/zoomconference?m=deJ85KgsJiMSJ5jdarJ_cpJY84d8IBfK
 
 ## Meeting Minutes
+
+## Past Arch WG Meeting Minutes
 * [April 4, 2017](https://docs.google.com/document/d/1BDU7LsDrq4NyA2UWMZLcBSNzEbGMzRg6QPJAnPo6Eag/edit?usp=sharing)
 * [April 19, 2017](https://docs.google.com/document/d/1mR0aa3eoU10A8TFTVpKZD6hRSGOfdPafIa7mmGloNeY/edit?usp=sharing)
 * [April 26, 2017](https://docs.google.com/document/d/1mR0aa3eoU10A8TFTVpKZD6hRSGOfdPafIa7mmGloNeY/edit?usp=sharing)
