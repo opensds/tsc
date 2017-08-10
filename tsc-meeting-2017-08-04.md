@@ -11,6 +11,18 @@
 8.	API Introduction and Discussions (15mins) – Howard
 9.	Wrap-up
 
+## Attendee:
+Scott Nicholson (Linux Foundation)
+
+Rakesh Jain (IBM)
+
+Matsumoto Shuuhei (Hitachi)
+
+Allen Samuels (WD)
+
+Steven Tan (Huawei)
+
+Howard Huang (Huawei)
 
 ## Minutes:
 -	**Previous minutes approved**
