@@ -29,6 +29,9 @@ International numbers available: https://zoom.us/zoomconference?m=deJ85KgsJiMSJ5
 * [2017-08-04 Minute](tsc-meeting-2017-08-04.md)
 * [2017-08-17 Minute](tsc-meeting-2017-08-17.md)
 * [2017-08-25 Minute](tsc-meeting-2017-08-25.md)
+* [2017-08-31 Minute](tsc-meeting-2017-08-31.md)
+* [2017-09-14 Minute](tsc-meeting-2017-09-14.md)
+
 
 
 ## Past Arch WG Meeting Minutes
