@@ -30,4 +30,5 @@ Open Source Summit USA – Allen presented OpenSDS. Allen mentioned MasterCard i
 
 
 -	**Swordfish for OpenSDS Proposal**
+
 Philip proposed implementing CSI/Swordfish with SF on both NB and SB. Howard voiced concerns about Swordfish being storage focused, and lacks cloud features such as multi-tenancy. Philip mentioned Rack Scale support for Swordfish, and Reddy advised being cautious about actual implementation. Discussions to be continued in next meeting.
