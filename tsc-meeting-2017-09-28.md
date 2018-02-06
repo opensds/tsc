@@ -48,43 +48,43 @@ Guests: Howard Huang, Philip Kufeldt
 
 	o	OSS Prague 2017
 	
-		•	Steven and Cosimo from Vodafone to present at technical session introducing OpenSDS and Storage Transformation for Cloudification at Vodafone
+		•	Steven and Cosimo from Vodafone to present at technical session introducing OpenSDS and Storage Transformation for Cloudification at Vodafone
 
-		•	Mini-Summit – Vodafone, Yahoo Japan, and NTT confirmed participation. KPN TBD.
+		•	Mini-Summit – Vodafone, Yahoo Japan, and NTT confirmed participation. KPN TBD.
 		
 	o	CloudNativeCon Austin 2017
 	
-		•	Proposed TSC meeting. Reddy, Allen, Steven are able to attend. Rakesh and Shuuhei TBD.
+		•	Proposed TSC meeting. Reddy, Allen, Steven are able to attend. Rakesh and Shuuhei TBD.
 
 	o	Major Events
 	
-		•	CloudNativeCon Europe, Copenhagen May2-4
+		•	CloudNativeCon Europe, Copenhagen May2-4
 
-		•	Open Source Summit China (TBD) - June
+		•	Open Source Summit China (TBD) - June
 
-		•	Open Source Summit Japan – Jun 20-22
+		•	Open Source Summit Japan – Jun 20-22
 
-		•	Open Source Summit Europe (TBD) – Oct/Nov
+		•	Open Source Summit Europe (TBD) – Oct/Nov
 
-		•	CloudNativeCon US – Nov/Dec
+		•	CloudNativeCon US – Nov/Dec
 
-		•	Flash Memory Summit – Aug/Sep - Impt
+		•	Flash Memory Summit – Aug/Sep - Impt
 
-		•	SNIA Storage Developer Conference – Sep – Impt (Plugfest)
+		•	SNIA Storage Developer Conference – Sep – Impt (Plugfest)
 
 	o	Other Events To Consider
 	
-		•	OpenStack North America (Vancouver) – May21-24 (lower priority)
+		•	OpenStack North America (Vancouver) – May21-24 (lower priority)
 
-		•	OpenStack Europe (Berlin) – Nov13-15 (lower priority)
+		•	OpenStack Europe (Berlin) – Nov13-15 (lower priority)
 
-		•	CloudFoundry Summit (Boston) – Apr 18-20
+		•	CloudFoundry Summit (Boston) – Apr 18-20
 
-		•	Huawei Connect - Sep/Oct
+		•	Huawei Connect - Sep/Oct
 
-		•	Strata Conference: Big data, AI ML = San Jose  Mar 5-8, London May21-24, New York Sep 11-14  
+		•	Strata Conference: Big data, AI ML = San Jose  Mar 5-8, London May21-24, New York Sep 11-14  
 
-		•	, Big Data, AI
+		•	, Big Data, AI
 
 •	Howard proposed 2 the formation of Infrastructure and Outreach workgroups. Reddy expressed concerns about resource limitation. Steven suggested the decision for workgroup formation be postponed to for further discussions
 
