@@ -2,6 +2,7 @@
 
 ## Attendees:
 Rakesh Jain, Steven Tan, Allen Samuels, Matsumoto-san, Reddy
+
 Guests: Howard Huang, Philip Kufeldt
 
 ## Agenda

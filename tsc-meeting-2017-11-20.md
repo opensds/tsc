@@ -11,12 +11,19 @@ Rakesh Jain, Steven Tan, Howard Huang, Philip Kufeldt
  
 
 ## Minutes
+
 1.	Steven presented use cases discussed with NTT and Yahoo Japan
+
 	a.	Replication
+	
 	b.	Migration
+	
 	c.	Protection
+	
 	d.	Lifecycle
+	
 	e.	Tiering
+	
 2.	Rakesh brought up the need to have a way to demo CSI connection
 
 
