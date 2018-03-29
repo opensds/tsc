@@ -1,4 +1,4 @@
-## OpenSDS EUAC Meeting Oct 24-25, 2017 at OSS Europe
+## OpenSDS Japan EUAC Meeting Mar 15, 2017 
 
 ## Attendees:
 Kei Kusunoki, Yuji Yazawa, Yusuke Sato, Steven Tan

@@ -1,4 +1,4 @@
-## OpenSDS TSC Meeting Jan 31, 2017 
+## OpenSDS TSC Meeting Jan 31, 2018 
 
 ## Attendees:
 Steven (Huawei), Rakesh (IBM), Reddy (Intel), Allen (WD), Jay (Lenovo), Kei (NTT Comms), George (Dell-EMC), Xing Yang (Huawei)
