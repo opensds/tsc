@@ -37,14 +37,13 @@ Rakesh Jain, Steven Tan, Kei Kusunoki, Yusuke Sato, Xing Yang, Makoto Kawabata (
     ii.	CSI (for Mesos? Docker?)
     iii.	Data migration (offline/online)
 10.	Capri feature priorities
-  a.	Swordfish
-  b.	File support (may need to pull this into Bali for Yahoo and Swisscom)
-  c.	Performance QoS
-  d.	SDN support for Contrail ONOS requested by NTT
-  e.	VMware support?
+a.	Swordfish
+b.	File support (may need to pull this into Bali for Yahoo and Swisscom)
+c.	Performance QoS
+d.	SDN support for Contrail ONOS requested by NTT
+e.	VMware support?
 
 ## Extras from the Mini Summit
-Extras from the Mini Summit:
 11.	Linbit officially joined OpenSDS with Linux Foundation PR annoucement
 12.	Jay Bryant officially joined OpenSDS TSC
 13.	KPN requested FC support, will be delivered in Aruba
