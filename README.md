@@ -26,7 +26,7 @@ Meeting ID: 477 192 859
 International numbers available: https://zoom.us/zoomconference?m=h0x5xsxAwYr_grrKRsEx_7PLkOfvL3bm
 
 ## Meeting Minutes
-* [TSC Meeting Minutes] (https://github.com/opensds/tsc)
+* [TSC Meeting Minutes](https://github.com/opensds/tsc)
 
 
 ## Kubernetes Storage SIG
