@@ -21,7 +21,7 @@ Rakesh Jain, Reddy, Steven Tan, Xing
 
 
 ## Minutes
-1.Vodafone thinks the new open data fabric concept matches their cloudification strategy
+1. Vodafone thinks the new open data fabric concept matches their cloudification strategy
 2. SNIA Swordfish wants to schedule a working session with OpenSDS sometime in early Nov
 3. Hitachi Vantara is interested in OpenSDS, Larry will talk to them regarding participation
 4. Itau joined the OpenSDS SNIA presentation and is interested in NVMeoF support
