@@ -10,9 +10,10 @@ To provide technical guidance for OpenSDS community development.
 * Allen Samuels (WD/SanDisk)
 * Steven Tan (Huawei)
 * Jay Bryant (Lenovo)
+* Shinya Hamano (Fujitsu)
 
 
-## Monthly Meetings
+## Bi-Weekly Meetings
 This meeting is hosted on zoom. Join the TSC mailing list for info on meetings
 
 Zoom Meeting: https://zoom.us/j/477192859
