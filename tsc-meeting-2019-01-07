@@ -1,0 +1,33 @@
+
+Capri (and Daito) requirements?
+
+Telemetry – a draft is there on how to integrate with Prometheus, Swordfish has anything in that area? They may have performance related fields. Need to standardize metrics names.
+
+Automation: Event driven Stackstorm (Openstack project), uses python. KPN has usecases -  eg after vol is created, setup backup etc. Will be our orchestration and automation engine. Netflix, Mastercard, Target are using it, Brocade bought it. 
+
+Data Lifecycle: Specify conditions based on time, duration and then take actions like – (aws) move the object to lower cost storage, etc. If volume is detached for x period of time, delete it. Toyota is interested in (iot data). Is an extension of automation.
+
+Filer support: Yahoo JP needs it, uses Netapp, Fujitsu, NTT also use Netapp. Gluster should we support? Manila is mainly in maintenance mode. Manila integration and native driver. 
+
+NVMEoF: Intel is doing
+
+Swordfish: NB api. Target filer first as it is brand new for us also. Need to check swordfish apis.
+
+Other Storage: IBM cloud storage in development, Fujitsu – need to wait till Apr. HPE: Kay is driving it with HPE.
+
+Anomaly detection:  All systems have different instrumentation. Need to come up with usecases as it is very broad. Dependent on telemetry. Pick a usecase for prototype in this release.
+
+Capri release – around June’19. 
+
+New project name – Sean sent email, let’s follow on that.
+
+Funding feedback – Is 50K too high? If yes, what is the proposed amount, need feedback.
+
+End Jan PR? – Larry 
+
+2019 Events – especially the Mini Summit for Barcelona that’s coming up in May
+
+Side event at CloudNative con in Seattle – Cloud Native Storage Days. Same in Barcelona, $4K cost.. Mostly panel discussion, only 5 min lightening talk at the end. Xing is going to check on how big is room.
+We will likely do mini summit there.
+
+Swordfish – Plugfest is coming up, Sean will attend.
