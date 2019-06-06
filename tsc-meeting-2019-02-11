@@ -1,0 +1,58 @@
+High level Agenda:
+
+- New Name Discussion:
+Genio, Concierge, 
+Cognitive Storage Platform (CSP), 
+Cogent Storage,  
+Cerebral Storage,  
+APHIS –Autonomous platform (for) heterogeneous  intelligent storage, 
+"AmuraStor" or Simply "Amura"  : Amura means Intelligent or sharp-sighted in Sanskrit Language,  
+"Quipu" or "khipu" (read as kippu) : talking knots ; were recording devices fashioned from strings historically used by a number 
+of cultures in the region of Andean South America. Very old way of storing data very smartly,  
+"OPUS"  -This is acronym of "Open source Project of {aUtonomous | Unified | Universal} Storage management".
+
+- Update from Fujitsu
+
+Japan meeting on Feb 1st. 
+
+Top 3 requirements: Filesystem/Manila support, QoS, Migration, Replication (FS).
+
+In Capri – we will start with base Manila support. Neutron network component makes it complicated. 
+Netapp Swordfish – need customer to push Netapp to write driver. Or push from Swordfish side also.  
+Have a follow-up call with Swordfish on draft agreement. 
+
+Lifecycle(Toyota ITC) – Capri will support object lifecycle.
+
+NvmeoF: Driver will work for Nvme over TCPIP, RoCE, iWARP (depends on NiC card) Focus will be on iWARP (standardization issues)
+
+Japan Meetup – Feb 25th or Mar 8th.
+
+OpenSDS Japanese website will be developed. Same with Chinese. Sanil will maintain English version. 
+
+
+- Mini Summit @Barcelona
+
+One day event.  Need title of the summit. Need something generic (not opensds). Break in two parts – 1)Opensds, 2)Generic topics.
+
+End user pilots, collab with other communities (eg SNIA). 
+
+There are other co-located events… CloudNative days (storage centric).
+
+
+- Update on Capri – Xing
+
+Lot of items, need to prioritize in next meeting.
+
+
+- Sanil: Mar 23rd – In India sponsoring Kubernetes days
+Launching OpenSDS in India as meetup in Feb with Google and CNCF.
+
+
+- Technical/Engineering Committee/Projects - Sanil (next meeting)
+
+- Other updates.
+
+- Next meeting should also discuss website content. 
+
+
+
