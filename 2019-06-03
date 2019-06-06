@@ -1,0 +1,28 @@
+OpenSDS Leadership Meeting June 3rd  2019
+
+KubeCon Barcelona mini-summit 
+  - Sanil gave updates from mini summit
+
+Propose an OpenSDS sub-project to CNCF Sandbox, e.g., Gelato? 
+ - To get more integration with CNCF projects 
+ - More visibility in CNCF community, better integration
+ - There is no Object related project in CNCF storage currently, so Gelato may be a good idea.
+ - Next steps: Build charter for further planning.
+
+KubeCon Shanghai planning 
+ - For china community
+
+Introduction from JD.com 
+   - Wei - presented about CFS - a distributed file system, which is open source.
+
+Introduction from Dingjia 
+   - Will Xu
+
+Capri release status (Xing)
+    -Cutting RC1 release.
+   - Waiting for Fujitsu for driver (internal approval pending)
+
+Copyright/License
+    - Need to correct the copyright to 'OpenSDS authors'. Should do it before/by Capri release.
+    
+    
