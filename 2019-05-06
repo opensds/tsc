@@ -1,0 +1,44 @@
+OpenSDS Leadership Meeting May 6th 2019
+
+Updates
+Openstack summit
+	Pure storage, SUSE, 99Cloud, Intel, Mirantis, Redhat, Cern, SME (storage made easy)
+	Cern may connect, probably in Barcelona.
+	SME – has multi-cloud product, may integrate, there may be overlap. Steven will connect with the founder/ceo.
+	Redhat – interested in multi-cloud, but need to connect with the right team (OpenShift).
+	99Cloud – Chinese company, startup backed by Intel, may join.
+	Pure storage – heard about OpenSDS, but its customers have to ask for OpenSDS support.
+	Bird of feather session with SNIA, went well, good questions – Open Storage Management. Later intro about OpenSDS. 
+	Linux Foundation will sign off the agreement with SNIA this week.
+	Intro to OpenSDS by Xing in Manila meeting.
+
+Japan updates – long vacation.
+
+Cinder – may have generic backup support (generic = any other cinder storage).
+Possibility of Cinder and Manila collaboration? Need to explore seriously.
+
+Capri updates
+
+Events status
+
+Barcelona
+	ODA Agenda is published. Vodafone can’t make it, need to replace. 30+ people registered. 
+	Demo – should be ready (recorded). May also include NVMEof. (Reddy to check with Vivian).
+
+Shanghai (June 24th)
+	Mini summit
+	Xing has session on Telemetry and Anomaly detection
+	Steven and Shane – session on project update
+
+Sony – Optical disc archive integration with opensds? May be interested.
+
+SODA proposal
+	A foundation for data and storage projects (like cncf, openstack foundation etc)
+
+Upcoming conferences:
+	SNIA SDC (Reddy submitted on different topic than opensds, can’t submit multiple). Sept 23-26. Deadline is May 10th. 
+	Steven to submit one.
+
+Propose a project in CNCF? Like multi-cloud or some part of opensds. 
+
+
