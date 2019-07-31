@@ -1,0 +1,42 @@
+
+Updates from China Kubecon 
+
+Mini summit – Shane: One day mini summit. 70-80 people attended. Various companies gave presentation and relationship with opensds. 
+
+Another talk on SODA (Intel + Huawei), about 20 people (shortened duration). Horizon (AI unicorn company, Beijing) interested, want to use CFS. JD.com also interested with CFS.
+
+China Unicom? Wants to chair Opensds china community (Shane will work it out)
+
+Capri release announced, overview of features. Linbit and Yahoo Japan discussion.
+
+OpenSource projects’ booth in Huawei booth included OpenSDS.
+
+Yahoo Japan – really good feedback. Interested in joining SODA, have good feeling.
+
+Linbit – Phil and Thomas. Phil committed to joining SODA. They are also considering a project to put into CNCF sandbox. 
+
+China Unicom – Yig open source – multi cloud controller with object storage base. 
+
+The 3 companies may join later this year.
+
+Many people asked about maturity of OpenSDS. (next release (D) will be)
+
+Anomaly detection topic (Xing and Yahoo Japan), with Telemetry demo. Redhat had similar topic on Openshift (app and storage)
+
+
+An idea - get real usage data from our customers and use it as sharable one (after anonymization) in our repo (can be part of SODA). 
+
+
+SODA formation: Larry had a call with Scott of LF. Draft membership agreement and charter. Scott will send something today based on discussions in Japan and China. Formation meeting planning to have in July (25 or 26 in Japan to cover Asia) and then in Aug with EU companies. Roadshows went pretty well. 
+
+
+Capri release – Released. Fujitsu driver needs to be backported. Installer has some critical fixes to be done. Announcement? Don’t have press release because of SODA. 
+
+
+Deprecation of development branch – is OK.
+
+CNCF sandbox proposal – Sanil has charter in place, reviewed for Gelato. Need to get two TOC members. S Li (Alibaba) and one other. Xing will check.
+
+New day for this meeting
+ -Wed 6 PM Pacific is new time for the meeting (every two weeks). That will be Thu morning in Japan, China and India.
+
